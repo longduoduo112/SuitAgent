@@ -70,4 +70,3 @@ output/cases/*/*案例*/ 2>/dev/null || true
 # 排除项目文档和状态文件（已在本地保留）
 docs/*/
 status/*/
-*.md
