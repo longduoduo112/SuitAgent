@@ -486,6 +486,7 @@ DocAnalyzer(案件材料分析) → IssueIdentifier(识别争议焦点) → Rese
 **系统自动执行**：
 ```
 DocAnalyzer(沟通记录分析) → IssueIdentifier(识别客户需求) → Strategist(制定服务方案) → Writer(法律服务方案书) → Summarizer(方案摘要)
+```
 
 
 ## 📊 自动化工作流编排
